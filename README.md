@@ -5,7 +5,7 @@
 <!-- TODO: Replace with a short demo video showing Hugo Chat generating an academic profile page -->
 <!-- https://github.com/user-attachments/assets/REPLACE_ME -->
 
-<h1 align="center">The Portfolio That Works While You Sleep</h1>
+<h1 align="center">The Portfolio That Works While You Slee p</h1>
 
 <p align="center">
   <strong>Your unfair advantage in academia.</strong><br/>
