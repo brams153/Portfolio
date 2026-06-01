@@ -7,7 +7,6 @@ name:
   family: Mireles Alcántara
   alternate: ''
   pronunciation: ''
-  pronouns: he/him
 status:
   icon: "☕️"
 role: Estudiante de Administración Pública | Desarrollador de Software
@@ -20,12 +19,12 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:tu-correo@ejemplo.com
+    url: abrahammirelesalcantara@gmail.com
     label: E-mail
   - icon: brands/github
-    url: https://github.com/tu-usuario
+    url: https://github.com/brams153
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/tu-perfil/
+    url: www.linkedin.com/in/mireles-alcántara-abraham-apolinar-0a3472357
 
 interests:
   - Procesamiento de Lenguaje Natural (NLP)
@@ -34,11 +33,6 @@ interests:
   - Automatización con Python y Rust
 
 education:
-  - degree: Maestría en Administración Pública (en curso)
-    institution: UNAM - Centro de Estudios de Administración Pública (CEAP)
-    start: 2026-03-01
-    summary: |
-      Enfoque en modernización administrativa, análisis de políticas públicas y proyectos de impacto ciudadano.
   - degree: Licenciatura en Administración Pública
     institution: UNAM
     summary: |
@@ -80,4 +74,4 @@ languages:
     label: Nativo
   - name: Inglés
     level: 4
-    label: C1 (Lectura técnica avanzada)
+    label: B2
